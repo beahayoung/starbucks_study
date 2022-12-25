@@ -1,0 +1,33 @@
+img {
+  display: block;
+}
+
+body {
+  color: #333;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.4;
+  font-family: "Gugi", sans-serif;
+}
+
+header {
+  background-color: blueviolet;
+}
+header .inner {
+  width: 1100px;
+  height: 120px;
+  margin: 0 auto;
+  background-color: orange;
+  position: relative;
+}
+header .logo {
+  background-color: red;
+  height: 75px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto 0;
+}
+
+/*# sourceMappingURL=/style.6b54f5b7.css.map */
